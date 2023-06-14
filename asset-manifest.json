@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/abra/static/css/main.738fa6da.css",
+    "main.js": "/abra/static/js/main.7185b7fd.js",
+    "static/js/787.9b25c9ff.chunk.js": "/abra/static/js/787.9b25c9ff.chunk.js",
+    "static/media/logoabra.png": "/abra/static/media/logoabra.f2bd7b4231c487b6475e.png",
+    "static/media/pamsi.jpg": "/abra/static/media/pamsi.aca662855ebdd9bd82be.jpg",
+    "static/media/pabsi.jpg": "/abra/static/media/pabsi.ae57926e1d3823a5b5b1.jpg",
+    "static/media/ppamsi.jpg": "/abra/static/media/ppamsi.173446e0ab059474551e.jpg",
+    "static/media/kiprahperpamsi.jpg": "/abra/static/media/kiprahperpamsi.bd15b7eb3906a2ddbcf5.jpg",
+    "static/media/perpamsi2014.jpg": "/abra/static/media/perpamsi2014.51c3e01ab177a14a8787.jpg",
+    "static/media/Perpamsi 2016.jpg": "/abra/static/media/Perpamsi 2016.5a1089b1a0eb06d31245.jpg",
+    "static/media/direktoriperpamsi.jpg": "/abra/static/media/direktoriperpamsi.2c184e6d6208f0efb707.jpg",
+    "static/media/pamsijawatimur.jpg": "/abra/static/media/pamsijawatimur.d0d3a6a72ea0dd0baf37.jpg",
+    "static/media/limapuluhtahunperpamsi.jpg": "/abra/static/media/limapuluhtahunperpamsi.46cda0a88a9febc891c9.jpg",
+    "static/media/logoperpamsi.png": "/abra/static/media/logoperpamsi.56840e343eeb53497313.png",
+    "static/media/logopln.png": "/abra/static/media/logopln.8695c52222b862349086.png",
+    "static/media/pln.jpg": "/abra/static/media/pln.0cc2c5869fb80f6455d8.jpg",
+    "static/media/logopabsi.png": "/abra/static/media/logopabsi.e261e79833b91addd9ae.png",
+    "static/media/People 2.jpg": "/abra/static/media/People 2.16cb2a62de145b3f8686.jpg",
+    "static/media/People 3.jpg": "/abra/static/media/People 3.31ead7180334719f3c22.jpg",
+    "static/media/People 1.jpg": "/abra/static/media/People 1.3fa5dcd4b52752149fe1.jpg",
+    "index.html": "/abra/index.html",
+    "main.738fa6da.css.map": "/abra/static/css/main.738fa6da.css.map",
+    "main.7185b7fd.js.map": "/abra/static/js/main.7185b7fd.js.map",
+    "787.9b25c9ff.chunk.js.map": "/abra/static/js/787.9b25c9ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.738fa6da.css",
+    "static/js/main.7185b7fd.js"
+  ]
+}
