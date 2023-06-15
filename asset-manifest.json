@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/abra/static/css/main.738fa6da.css",
-    "main.js": "/abra/static/js/main.cee703f2.js",
+    "main.js": "/abra/static/js/main.7185b7fd.js",
     "static/js/787.9b25c9ff.chunk.js": "/abra/static/js/787.9b25c9ff.chunk.js",
     "static/media/logoabra.png": "/abra/static/media/logoabra.f2bd7b4231c487b6475e.png",
     "static/media/pamsi.jpg": "/abra/static/media/pamsi.aca662855ebdd9bd82be.jpg",
@@ -22,11 +22,11 @@
     "static/media/People 1.jpg": "/abra/static/media/People 1.3fa5dcd4b52752149fe1.jpg",
     "index.html": "/abra/index.html",
     "main.738fa6da.css.map": "/abra/static/css/main.738fa6da.css.map",
-    "main.cee703f2.js.map": "/abra/static/js/main.cee703f2.js.map",
+    "main.7185b7fd.js.map": "/abra/static/js/main.7185b7fd.js.map",
     "787.9b25c9ff.chunk.js.map": "/abra/static/js/787.9b25c9ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.738fa6da.css",
-    "static/js/main.cee703f2.js"
+    "static/js/main.7185b7fd.js"
   ]
 }
