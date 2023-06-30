@@ -12,6 +12,7 @@ import perpamsi2016 from ".././assets/images/Content/Perpamsi 2016.jpg";
 import perpamsi2014 from ".././assets/images/Content/perpamsi2014.jpg";
 import pln from ".././assets/images/Content/pln.jpg";
 import ppamsi from ".././assets/images/Content/ppamsi.jpg";
+import whitebackground from ".././assets/images/white background.jpg";
 
 export default function Portfolio() {
   const [index, setIndex] = useState(0);
@@ -100,7 +101,7 @@ export default function Portfolio() {
             </Carousel.Item> */}
             {portfolio.map((ports, index) => (
               <Carousel.Item className="carousel-item" key={index}>
-                <Image className="d-block w-100 image-view " src={ports.image} alt="First slide" fluid />
+                <Image className="d-block w-100 image-view " src={whitebackground} alt="First slide" fluid />
                 <Carousel.Caption>
                   <Image src={ports.image} height={300} width={200}></Image>
                   <h5>{ports.name}</h5>

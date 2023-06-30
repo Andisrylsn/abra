@@ -22,7 +22,7 @@ export default function Hero() {
                 </h3>
                 <p>Media and advertising company that helps you enlarge the business.</p>
                 <Button variant="secondary" href="/">
-                 ABOUT US
+                  ABOUT US
                 </Button>
               </Carousel.Caption>
             </Carousel.Item>
@@ -32,17 +32,17 @@ export default function Hero() {
                 <h3>OUR SERVICES</h3>
                 <p>ABRA services for customers</p>
                 <Button variant="secondary" href="/#services">
-                 More about our services
+                  More about our services
                 </Button>
               </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
               <Image className="d-block w-100 image-view" src="https://source.unsplash.com/1200x800/?work" alt="Third slide" fluid />
               <Carousel.Caption>
-                <h3>OUR CLIENTS</h3>
-                <p>ABRA clients</p>
-                <Button variant="secondary" href="/services#ourclients">
-                  OUR CLIENTS
+                <h3>OUR PARTNERS</h3>
+                <p>ABRA PARTNERS</p>
+                <Button variant="secondary" href="/more#ourclients">
+                  OUR Partners
                 </Button>
               </Carousel.Caption>
             </Carousel.Item>

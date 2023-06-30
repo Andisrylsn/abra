@@ -24,7 +24,7 @@ export default function Header() {
                 Our Values
               </NavDropdown.Item>
               <NavDropdown.Item className="custom-link" href="/more#clients">
-                Our Clients
+                Our Partners
               </NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item className="custom-link" href="/more#contact-us">
